@@ -1,5 +1,5 @@
 first:
-	gcc -o first first.c
+	gcc -o first.exe first.c
 
 # clean: 
 # 	rm -f first
