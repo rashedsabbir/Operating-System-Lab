@@ -1,5 +1,7 @@
 # Operating-System-Lab
 
+### These are the 6 problem set regarding operating system lab
+
 #### 1. Write a C program and run it in command prompt.
 
 #### 2. Write a C program then create a makefile and run the program using that makefile.
