@@ -1,7 +1,7 @@
 # Operating-System-Lab
 ## C/C++ problems with solve
 
-###### These are the 6 problem set regarding operating system lab
+##### These are the 6 problem set regarding operating system lab
 
 ##### 1. Write a C program and run it in command prompt.
 
